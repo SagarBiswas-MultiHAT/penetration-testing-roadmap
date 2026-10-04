@@ -96,6 +96,8 @@ Phase 1 (Basics)     ──────► Phase 2 (Hands-On Web) ────�
   • CompTIA Sec+               • eWPT                         • CRTP (Active Directory)       • OSEP (Evasion/Red Team)
 ```
 
+> 🧭 **Looking for career pathways beyond penetration testing?** Explore **[Awesome Cybersecurity Paths](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths)** for 35 distinct role roadmaps across Offensive, Defensive, and GRC, 100+ tools, cert paths, and 10 enterprise architectures.
+
 ---
 
 ## ⚖️ General Exam Preparation Tips

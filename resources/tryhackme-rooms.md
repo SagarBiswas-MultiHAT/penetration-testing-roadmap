@@ -1,6 +1,6 @@
-# ðŸŽ¯ 500+ Free TryHackMe Rooms: The Complete Master Checklist
+# 500+ Free TryHackMe Rooms: The Complete Master Checklist
 
-[â¬…ï¸ Back to Main README](../README.md)
+[ Back to Main README](../README.md)
 
 > A curated, categorized collection of **500+ free TryHackMe rooms** for hands-on cybersecurity practice.
 
@@ -1199,4 +1199,4 @@ Here are a few other labs you could consider adding:
 - [ ] [🕵️ TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
 
-[â¬…ï¸ Back to Main README](../README.md)
+[Back to Main README](../README.md)

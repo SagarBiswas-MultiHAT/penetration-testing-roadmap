@@ -288,7 +288,7 @@ Before diving into pentesting, ensure you have:
 ## 📞 Get Help
 
 Feeling stuck? Here are ways to get help:
-1. **Join the community Discord servers** listed in [Community Channels](community-channels.md)
+1. **Join the community Discord servers** listed in [Community Channels](../resources/community-channels.md)
 2. **Ask specific questions** on Reddit communities
 3. **Find a mentor** through local security groups
 4. **Study group** with other learners

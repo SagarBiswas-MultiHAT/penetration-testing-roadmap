@@ -11,7 +11,7 @@
 
 **A structured, comprehensive 60-week curriculum to master penetration testing, web security, network hacking, and ethical hacking from scratch.**
 
-[📚 Explore Roadmaps](#-learning-paths--modules) • [🥽 500+ Free Labs](resources/tryhackme-rooms.md) • [🛠️ Tools Directory](resources/tools-directory.md) • [🤝 Contribute](CONTRIBUTING.md)
+[🌐 Support The Open Source Ecosystem](#Support-the-Open-Source-Ecosystem) • [🥽 500+ Free Labs](resources/tryhackme-rooms.md) • [🛠️ Tools Directory](resources/tools-directory.md) • [🤝 Contribute](CONTRIBUTING.md)
 
 </div>
 
@@ -50,22 +50,6 @@ graph TD
 
 ---
 
-## 📚 Learning Paths & Modules
-
-Choose the roadmap that matches your learning style and goals:
-
-| Module / Resource | Target Audience | Focus Area | Description |
-|---|---|---|---|
-| 🗺️ **[Roadmap 1: Foundations to Professional](roadmaps/roadmap-1-foundations.md)** | All Levels | Complete 60-Week Journey | Comprehensive 4-phase curriculum covering prerequisites, core pentesting, specializations, and career pathways. |
-| 🧪 **[Roadmap 2: Practical Labs & Videos](roadmaps/roadmap-2-practical-labs.md)** | Hands-on Learners | Weekly Lab Schedule | 60-week breakdown with YouTube tutorials, TryHackMe labs, and detailed subpages for each week. |
-| ⚡ **[Roadmap 3: 12-Week Fast Track](roadmaps/roadmap-3-goals-tasks.md)** | Accelerated Learners | 12-Week Core Sprint | High-intensity 12-week curriculum focused strictly on web application vulnerabilities and free certs. |
-| 🎯 **[500+ Free TryHackMe Rooms Checklist](resources/tryhackme-rooms.md)** | Practice & CTF | Hands-on Exercises | **Featured Item:** Curated checklist of 500+ free TryHackMe labs categorized by topic. |
-| 🛠️ **[Penetration Testing Tools Directory](resources/tools-directory.md)** | All Pentesters | Tool Mastery | Categorized guide to essential scanners, proxies, exploitation frameworks, and wordlists. |
-| 📜 **[Certifications Guide](resources/certifications.md)** | All Learners | Career Credentials | Comprehensive guide to OSCP, Security+, eJPT, free certs (ISC2 CC, PortSwigger), and prep tips. |
-| 👥 **[Community & Learning Channels](resources/community-channels.md)** | All Learners | Mentorship & Books | Recommended InfoSec books, podcasts, Discord servers, subreddits, and YouTube creators. |
-
----
-
 ## ⚡ What's New in the 2026 Edition?
 
 Cybersecurity moves fast. The 2026 edition introduces modern attack vectors and defense paradigms:
@@ -99,13 +83,16 @@ One of the largest open-source collections of free security labs:
 ## 📜 Certification & Career Roadmap
 
 ```
-Entry-Level ────► Professional ────► Expert Level
-  • CompTIA Sec+    • OSCP            • OSEP
-  • CompTIA PenTest+ • CEH             • GPEN
-  • ISC2 CC (Free)  • GCIH            • OSCE
+Entry-Level ─────────► Professional ─────────► Expert Level
+  • CompTIA Sec+         • OSCP                  • OSEP
+  • CompTIA PenTest+     • CEH                   • GPEN
+  • ISC2 CC (Free)       • GCIH                  • OSCE
 ```
 
 👉 **[Access the Full Certifications & Career Guide](resources/certifications.md)**
+
+> 🧭 **Looking for career roadmaps across 35 distinct roles?**
+> Check out **[Awesome Cybersecurity Paths](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths)** for a complete breakdown of 35 roles across Offensive, Defensive, and GRC, 100+ tools, cert paths, and 10 enterprise architectures.
 
 ---
 
@@ -113,6 +100,66 @@ Entry-Level ────► Professional ────► Expert Level
 
 > [!CAUTION]
 > **Authorized Testing Only**: Penetration testing without explicit written authorization is illegal and punishable under computer crime laws (e.g., Computer Fraud and Abuse Act). Always perform testing strictly within authorized environments, lab VMs, or approved bug bounty scopes. Follow responsible disclosure practices at all times.
+
+---
+<a id="companion-ecosystem"></a><a id="flagship-ecosystem"></a><a id="Support-the-Open-Source-Ecosystem"></a>
+## ⭐ Support the Open-Source Ecosystem
+
+If you find this roadmap or our companion resources helpful, please consider starring ⭐ the repositories on GitHub! Your support increases visibility, helps more aspiring security professionals discover free high-quality education, and keeps these community projects thriving:
+
+
+
+### 🥷 [The BlackHAT Roadmap 2027](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap)
+[![Stars](https://img.shields.io/github/stars/SagarBiswas-MultiHAT/The-BlackHAT-roadmap?style=flat-square&color=gold&label=⭐%20Stars)](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap)
+[![Forks](https://img.shields.io/github/forks/SagarBiswas-MultiHAT/The-BlackHAT-roadmap?style=flat-square&color=blue&label=🍴%20Forks)](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap/network/members)
+
+**The complete hacking & penetration testing roadmap from beginner to elite.**
+* **Massive Technical Scope**: 44,982 lines of rigorous technical documentation accompanied by 150+ visual diagrams covering attack chains, systems architecture, and exploitation flows.
+* **Specialized Offensive Operations**: In-depth coverage of OPSEC survival, web security, Active Directory dominance, binary exploitation, EDR evasion mechanisms, and 0-day vulnerability research.
+* **Arsenal & Payloads**: 300+ cataloged tools, 200+ MITRE ATT&CK techniques, custom weaponized C & Rust payloads, and modern AI security resources.
+* **Learning Assets**: Hands-on lab setup guides, curated books, top courses, technical blogs, and CTF/practice platform recommendations.
+
+👉 **[Access The BlackHAT Roadmap 2027](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap)**
+
+---
+
+### 🧭 [Awesome Cybersecurity Paths](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths)
+[![Stars](https://img.shields.io/github/stars/SagarBiswas-MultiHAT/awesome-cybersecurity-paths?style=flat-square&color=gold&label=⭐%20Stars)](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths)
+[![Forks](https://img.shields.io/github/forks/SagarBiswas-MultiHAT/awesome-cybersecurity-paths?style=flat-square&color=blue&label=🍴%20Forks)](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths/network/members)
+
+**A comprehensive cybersecurity career roadmap and handbook.**
+* **35 Industry Roles**: Comprehensive role breakdowns and skill profiles across Offensive Security, Defensive Operations (SOC Analyst, Incident Responder, Threat Hunter), and Governance, Risk & Compliance (GRC).
+* **Tool & Skill Matrix**: 100+ industry tools mapped directly to job expectations, daily responsibilities, and technical proficiencies.
+* **Certification Milestones**: Tailored credential tracks guiding learners from entry-level foundational certs to specialized professional credentials.
+* **Enterprise Architectures**: 10 real-world cybersecurity architecture blueprints showing enterprise defense and operational workflows.
+
+👉 **[Access Awesome Cybersecurity Paths](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths)**
+
+---
+
+### 📚 [Awesome Cybersecurity Books](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books)
+[![Stars](https://img.shields.io/github/stars/SagarBiswas-MultiHAT/awesome-cybersecurity-books?style=flat-square&color=gold&label=⭐%20Stars)](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books)
+[![Forks](https://img.shields.io/github/forks/SagarBiswas-MultiHAT/awesome-cybersecurity-books?style=flat-square&color=blue&label=🍴%20Forks)](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books/network/members)
+
+**A curated collection of 70+ free cybersecurity books organized by domain and difficulty.**
+* **Difficulty Progression**: Structured learning tracks organized from 🟢 Beginner → 🟡 Intermediate → 🔴 Advanced to build knowledge step by step.
+* **Comprehensive Domains**: Curated titles covering ethical hacking, penetration testing, exploit development, malware analysis, reverse engineering, web security, and mobile security.
+* **Zero Paywall**: 100% free, community-maintained collection ensuring high-quality security literature is accessible without paywalls or subscriptions.
+
+👉 **[Access Awesome Cybersecurity Books](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books)**
+
+---
+
+### 📓 [Research Notebooks & Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/)
+
+**Curated technical notebooks and field manuals with an interactive in-browser reader.**
+* **Interactive In-Browser Reader**: Over 32 modular notebooks, field manuals, and study vaults equipped with dark-mode reading and code demonstrations.
+* **Core Cybersecurity & OSINT**: Handbooks including Google Dorks: The Complete Handbook, Understanding Phishing, and strategic career path guides.
+* **Networking & Infrastructure**: Technical field manuals detailing computer networking fundamentals, DNS architecture, and network protocols.
+* **Programming for Security**: Complete practical tracks for Python in cybersecurity, Bash automation, C/C++ data structures, and web technologies.
+
+👉 **[Access Research Notebooks & Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/)**
+
 
 ---
 
@@ -126,8 +173,10 @@ Contributions make this roadmap better for everyone! Whether you want to add a n
 
 ---
 
-<div align="center">
+<div align="right">
 
 *Maintained with ❤️ by [@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT) and the global InfoSec community under the [CC BY-SA 4.0 License](LICENSE).*
 
 </div>
+
+---

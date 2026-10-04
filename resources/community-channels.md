@@ -12,7 +12,20 @@
 - **"Black Hat Python"** by Justin Seitz
 - **"The Shellcoder's Handbook"** by Chris Anley
 
-> 📖 For a comprehensive book collection, see our [Cybersecurity Books Library](https://github.com/SagarBiswas-MultiHAT/Library-of-Cybersecurity-Books)
+> 📖 For a curated collection of 70+ free books organized by domain and difficulty (Beginner to Advanced, zero paywall), see [Awesome Cybersecurity Books](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books).
+
+---
+
+## 📓 Research Notebooks & Field Manuals
+
+Curated technical notebooks and field manuals with a built-in interactive browser reader by Sagar Biswas (MultiHAT):
+
+- **[MultiHAT Research Notebooks & Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/)**
+  - **Interactive In-Browser Reader**: Over 32 modular notebooks, field manuals, and study vaults equipped with dark-mode reading and practical code demonstrations.
+  - **Cybersecurity & OSINT**: Handbooks including *Google Dorks: The Complete Handbook*, *Understanding Phishing*, and *Choose Your Cybersecurity Path, WISELY!*.
+  - **Networking & Protocols**: Deep-dive operational guides for *Foundations of Networking* and *DNS in Detail*.
+  - **Scripting & Tool Development**: In-depth tracks covering *Python for Cybersecurity*, *The Pythonic Odyssey*, *Ultimate Bash Script Handbook*, and *Git & GitHub Operational Series*.
+  - **Systems & Web Foundations**: Technical guides for *C Programming Language*, *DataTypes in C++*, *HTML Handbook*, *JavaScript Series*, and *PHP & MySQL Engineering Series*.
 
 ---
 
@@ -22,6 +35,11 @@
 - [Null Byte](https://null-byte.wonderhowto.com/) - Hacking tutorials
 - [Pentester Academy](https://www.pentesteracademy.com/) - Advanced courses
 - [IppSec YouTube Channel](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - HackTheBox walkthroughs
+
+- **[MultiHAT Blogs](https://sagarbiswas-multihat.github.io/blogs/)**
+  - **Comprehensive Security Content**: A collection of in-depth blog posts and technical deep dives covering a wide range of cybersecurity topics.
+  - **Practical Guides & Tutorials**: Hands-on articles, walkthroughs, and technical insights for cybersecurity practitioners and enthusiasts.
+  - **Career & Development**: Insights on career paths, skill development, and industry trends in cybersecurity.
 
 ---
 
