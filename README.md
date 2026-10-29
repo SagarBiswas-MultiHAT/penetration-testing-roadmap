@@ -17,6 +17,22 @@
 
 ---
 
+## 🔎 Find Your Learning Path
+
+This **penetration testing roadmap** is a free, open-source **ethical hacking and cybersecurity learning path** for beginners, intermediate learners, and aspiring professional pentesters. It combines fundamentals, web application security, network security, Active Directory, cloud and API security, scripting, hands-on labs, and certification planning in one progressive curriculum.
+
+| Start here | What you will find |
+|---|---|
+| [Foundations to Professional](roadmaps/roadmap-1-foundations.md) | Networking, Linux, reconnaissance, web security, exploitation, reporting, and professional development |
+| [Practical Labs](roadmaps/roadmap-2-practical-labs.md) | A hands-on sequence of labs and exercises for building repeatable assessment skills |
+| [Goals and Tasks](roadmaps/roadmap-3-goals-tasks.md) | A focused plan for turning broad security topics into measurable weekly goals |
+| [60-Week Curriculum](Subpages/Week%201.md) | Week-by-week study plans, challenges, and practice resources |
+| [Free TryHackMe Rooms](resources/tryhackme-rooms.md) | A searchable practice checklist with free and free-tier labs |
+| [Tools Directory](resources/tools-directory.md) | A curated reference for penetration testing and security tools |
+| [Certifications](resources/certifications.md) | Certification options and career-oriented milestones |
+
+> **Use responsibly:** Every technique in this repository is for authorized labs, systems you own, or explicitly approved security assessments only.
+
 ## 📖 Overview
 
 Feeling overwhelmed by the vast world of cybersecurity? **You are not alone.** Penetration testing requires a blend of networking, Linux/Windows administration, web architecture, and security methodology. 
@@ -170,6 +186,17 @@ Contributions make this roadmap better for everyone! Whether you want to add a n
 - Read our **[CONTRIBUTING.md](CONTRIBUTING.md)** guide.
 - Suggest a resource via **[Resource Suggestion Template](.github/ISSUE_TEMPLATE/resource-suggestion.md)**.
 - Report dead/paywalled links via **[Broken Link Report Template](.github/ISSUE_TEMPLATE/broken-link-report.md)**.
+
+---
+
+## 📌 Attribution and Content Integrity
+
+This repository is the canonical source for the **SagarBiswas-MultiHAT Penetration Testing Roadmap**. If you quote, mirror, translate, or adapt any part of it, preserve the author credit, link back to this repository, identify your changes, and keep the work under the [CC BY-SA 4.0 License](LICENSE).
+
+Please use the repository's [citation metadata](CITATION.cff) when referencing this roadmap in an article, course, video, or project. If you find an unattributed copy or a copy with altered attribution, open an issue with the URL and the affected files so the original source can be documented.
+
+**Suggested attribution:**
+> Sagar Biswas, *Penetration Testing Roadmap*, SagarBiswas-MultiHAT, 2026. https://github.com/SagarBiswas-MultiHAT/penetration-testing-roadmap
 
 ---
 

@@ -64,6 +64,11 @@ We welcome translations! To translate:
 - Follow the existing formatting style of the section you're editing
 - Use clear, beginner-friendly language
 
+### Attribution and Licensing
+- This repository's original content is available under the [CC BY-SA 4.0 License](LICENSE).
+- Reuse must preserve the author credit, link to this repository, identify changes, and use the same license for adapted content.
+- If you find an unattributed copy or a copy with altered attribution, use the [Attribution Report Template](.github/ISSUE_TEMPLATE/attribution-report.md) with the URL and affected content.
+
 ### What We're NOT Looking For
 - Paid course promotions or affiliate links
 - Content that encourages illegal activity
